@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawrencefritts
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Springboard Data Engineering BootCamp
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning on Coding Dojo
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me lawrencefritts@icloud.com
 
