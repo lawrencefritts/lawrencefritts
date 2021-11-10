@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lawrencefritts
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning on Coding Dojo
-- 💞️ I’m looking to collaborate on not sure yet
+- 💞️ I’m looking to collaborate on medical or other science related research.
 - 📫 How to reach me lawrencefritts@icloud.com
 
 <!---
